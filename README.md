@@ -23,4 +23,3 @@ Run pack.bat
 If something error make a Issues im will fix soon 
 
 
-I will edit version for japanese text soon.
